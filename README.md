@@ -5,7 +5,6 @@ After using the flag package for a long time, I started to get tired of it.\
 With many possible arguments, I had to declare my variables, then apply a flag on each of them, and it got annoying.
 
 With this library, I just have to declare a struct with my variables, add some annotations, and that's all.
-
 # Example
 ```
 package main
